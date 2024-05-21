@@ -1,0 +1,70 @@
+.subjext-box {
+
+    width: 1240px;
+    height: 800px;
+    top: 1120px;
+    padding: 113px 128px 113px 128px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(252, 245, 254, 1);
+    align-items: center;
+
+}
+
+.data-science-cor-btn {
+
+    width: 350px;
+    height: 30px;
+    padding: 16px 28px 16px 28px;
+    gap: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 1000px;
+    border: 1px 0px 0px 0px;
+
+    background-color: rgba(249, 235, 252, 1);
+    color: rgb(235, 176, 243);
+}
+
+.data-heading {
+
+    width: 761px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.data-heading h1 {
+
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: coral;
+
+
+
+}
+
+.data-heading span {
+
+    color: rgba(76, 77, 82, 1);
+}
+
+
+.coureses-box {
+
+    width: 1184px;
+    height: 520px;
+    /* top: 324px;
+    left: 128px; */
+
+    border-radius: 28px;
+    border: 1px 0px 0px 0px;
+    /* opacity: 0px; */
+    /* background-color: rgba(229, 229, 232, 1); */
+
+}

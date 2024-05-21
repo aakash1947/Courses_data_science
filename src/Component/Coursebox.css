@@ -1,0 +1,59 @@
+.Courses {
+
+    width: 900px;
+    height: 100px;
+    padding: 28px 0px 0px 0px;
+    /* gap: 12px; */
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    /* margin: 50px; */
+    margin-top: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 1);
+
+
+}
+
+.courses-box2 p {
+
+    font-weight: 330;
+    font-size: 20px;
+    margin: 20px;
+
+
+
+}
+
+.courses-box3 p {
+
+    /* font-weight: 400; */
+    color: rgba(131, 132, 141, 1);
+}
+
+.Curriculum-btn {
+    display: flex;
+    text-align: center;
+    width: 200px;
+    /* margin-left: 20px; */
+    height: 50px;
+    padding: 2px;
+    gap: 5px;
+    border-radius: 1000px;
+    /* border: 1px solid red; */
+
+    background-color: rgba(249, 235, 252, 1);
+
+
+
+
+}
+
+.Curriculum-btn p {
+
+    text-align: center;
+    /* margin-bottom: 10px; */
+    margin-left: 15px;
+    color: rgba(183, 59, 190, 1);
+}

@@ -1,0 +1,307 @@
+.first-nav {
+
+    display: flex;
+    justify-content: space-between;
+    width: Fixed (1, 440px)px;
+    height: 30px;
+    padding: 24px 128px 24px 128px;
+    gap: 0px;
+    border: 0px 0px 1px 0px;
+
+    opacity: 0px;
+
+}
+
+.btn-login-signup {
+
+    display: flex;
+    width: Hug (160px)px;
+    height: Hug (48px)px;
+    gap: 12px;
+    opacity: 0px;
+
+}
+
+.btn-login-signup button {
+
+    width: 90px;
+    height: 40px;
+    background: linear-gradient(180deg, #B73BBE 0%, #992E9D 93.51%);
+    border-radius: 14px;
+    gap: 6px;
+    Padding: 12px, 24px, 12px, 24px;
+    border: none;
+
+
+
+
+}
+
+.btn-login-signup p {
+
+    width: 43px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: var(--Eminence-700, #992E9D);
+    font: poppins;
+
+
+
+
+
+
+}
+
+
+/* 2nd Nav bar */
+
+.second-navbar {
+    width: Fixed (1, 440px)px;
+    height: 28px;
+
+    padding: 5px 5px 12px 10px;
+    gap: 20px;
+    opacity: 0px;
+    background: var(--Woodsmoke-900, rgba(59, 59, 62, 1));
+
+    display: flex;
+
+
+}
+
+.second-navbar p {
+
+    width: 90px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: var(--Woodsmoke-200, rgba(207, 208, 210, 1));
+
+
+}
+
+
+/* main-section */
+.main-section {
+
+    width: 766px;
+    height: 565px;
+    top: 220px;
+    left: 128px;
+    gap: 32px;
+    opacity: 0px;
+    /* border: 1px solid black; */
+    margin: 90px;
+
+}
+
+.main-button {
+
+    width: 355px;
+    height: 66px;
+    padding: 18px 24px 18px 24px;
+    gap: 10px;
+    border-radius: 16px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid var(--Web-Orange-500, rgba(255, 165, 11, 1));
+    margin-top: 50px;
+}
+
+.main-button p {
+
+    font: poppins;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(67, 67, 71, 1);
+
+}
+
+.main-button span {
+
+    font-weight: 900;
+
+    font-size: 25px;
+    line-height: 30px;
+    /* color: var(--Woodsmoke-800, rgba(67, 67, 71, 1)); */
+    color: #151315;
+
+
+}
+
+.heading-section h1 {
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 86px;
+    color: rgba(0, 0, 0, 1);
+
+
+}
+
+.heading-section span {
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 86px;
+    color: var(--Eminence-700, rgba(153, 46, 157, 1));
+
+}
+
+.heading-section p {
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(187, 83, 2, 1);
+
+
+}
+
+.Mentorship-btn {
+
+    display: flex;
+    gap: 6px;
+}
+
+
+.Mentorship-btn p {
+
+
+    width: 222px;
+    height: 20px;
+    text-align: center;
+    color: var(--Web-Orange-700, rgba(187, 83, 2, 1));
+
+
+
+    padding: 12px 16px 12px 12px;
+
+
+    border-radius: 100px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+    background: var(--Web-Orange-50, rgba(255, 252, 234, 1));
+
+
+
+
+}
+
+
+.enroll-btn {
+
+    display: flex;
+
+}
+
+
+.enroll-btn button {
+
+    width: 220px;
+    height: 70px;
+    background: linear-gradient(180deg, #B73BBE 0%, #992E9D 93.51%);
+    border-radius: 14px;
+    gap: 6px;
+    Padding: 12px, 24px, 12px, 24px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.enroll-btn p {
+
+    margin-left: 30px;
+    color: rgba(153, 46, 157, 1);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+
+
+
+/* courses-section */
+
+.courses-section {
+
+    width: 1500px;
+    height: 172px;
+    /* top: 847px; */
+    border: 1px;
+    /* justify-content: space-between; */
+    /* padding: 36px, 128px, 36px, 128px; */
+    align-items: center;
+
+    display: flex;
+    background-color: rgba(249, 235, 252, 1);
+
+}
+
+.courses-section-box {
+
+    display: flex;
+    width: 130px;
+    height: 70px;
+    gap: 12px;
+    border: 1px solid black;
+    justify-content: center;
+
+}
+
+
+.courses-section-icon-2 {
+
+    gap: 2px;
+    height: 92px;
+    width: 92px;
+    /* border: 1px solid black; */
+    column-gap: 40px;
+}
+
+
+.courses-section-icon-2 h2 {
+
+    width: 92px;
+    height: 5px;
+    font-weight: 500;
+    line-height: 28px;
+    color: rgba(153, 46, 157, 1);
+}
+
+.courses-section-icon-2 p {
+
+    width: 92px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+    font-weight: 300;
+    font-size: 20px;
+    color: rgba(104, 105, 114, 1);
+
+
+}
+
+.All-boxes {
+
+    display: flex;
+    margin-left: 20%;
+    align-items: center;
+    gap: 30px;
+
+}
